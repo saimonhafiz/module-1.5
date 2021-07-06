@@ -23,7 +23,7 @@ p {
 	width: 40%;
 	margin:10%
 }
-a {
+section a {
 	background-image: linear-gradient(#ff3204, #fc6746 );
 	padding: 2.5% 5%;
     text-decoration: none;
@@ -65,4 +65,11 @@ a {
 	margin: 5px;
 	padding: 5px;
 	width: 30%;
+}
+footer {
+	text-align: center;
+}
+#author {
+	text-decoration: none;
+	color: orangered;
 }
