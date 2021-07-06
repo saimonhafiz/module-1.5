@@ -6,29 +6,48 @@ body {
 
 h1 {
 	font-size: 3rem;
+	text-align: center;
 }
 .colorful {
-	color: #E71989;
+	color: #fc6746;
 }
 p {
 	text-align: justify;
+	text-align: center;
 }
 .banner {
 	display: flex;
+	text-align: center;
 }
 .txt {
-	width: 50%;
+	width: 40%;
 	margin:10%
 }
 a {
-	background-image: linear-gradient(hsl(327, 98%, 49%), #E71989);
-	padding: 5px 20px;
+	background-image: linear-gradient(#ff3204, #fc6746 );
+	padding: 2.5% 5%;
     text-decoration: none;
 	font-weight: bold;
 	color: white;
-	border-radius: 10px;
-	margin-top:;	
+	border-radius: 50px;	
 }
 .photo {
 	margin: 10px;
+	width: 50%;
+	height: auto;
+}
+.price-box img{
+	width: 40%;
+}
+.price-box {
+	width: 30%;
+	text-align: justify;
+	text-align: center;
+	margin: 5%;
+	padding: 2%;
+	border: 2px solid silver;
+	border-radius: 20px;
+	box-shadow: 0px 0px 10px 10px grey;
+
+
 }
