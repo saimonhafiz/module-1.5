@@ -26,7 +26,7 @@ p {
 	margin:10%
 }
 section a {
-	background-image: linear-gradient(#ff3204, #fc6746 );
+	background-image: linear-gradient(#ff3204, #ffa101 );
 	padding: 2.5% 5%;
     text-decoration: none;
 	font-weight: bold;
@@ -93,8 +93,11 @@ li a {
 	
 	
 }
-#nav {
-	
-	
-	
+#contact {
+	background-color: #008186;
+}
+#visit-bar {
+	background-color: #f5b307;
+	color: black;
+	font-weight: 1000;
 }
